@@ -96,8 +96,9 @@ dotnet build
 The executable will be available in `bin/Debug/net8.0/` 
 
 ### 2. Download prebuilt binary
-If you prefer not to compile, grab the prebuilt `duplink.exe` from the project’s release page (to be provided).  
-Just place all files in a folder on your system and run it from the command line.
+If you prefer not to compile, grab the prebuilt `duplink.exe` from the project’s release page or just dl 
+the exe and dll from the source code.  
+Just place both files in a folder on your system and run it from the command line.
 
 ---
 
