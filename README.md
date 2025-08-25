@@ -103,10 +103,10 @@ Just place both files in a folder on your system and run it from the command lin
 ⚠️ Note: Since this is an unsigned executable, Windows may show a warning when you try to run it. That’s expected for tools distributed outside the Microsoft Universe.
 
 The safest approach is always to compile it yourself from source.
-
 If you’re comfortable, you can use the prebuilt binary directly.
----
 
+
+---
 ## Notes
 
 - Master and scan directories **must be on the same NTFS volume**.
