@@ -100,6 +100,8 @@ If you prefer not to compile, grab the prebuilt `duplink.exe` from the projectâ€
 the exe and dll from the source code.  
 Just place both files in a folder on your system and run it from the command line.
 
+You might get some warnings from windows, thats normal, you dl an unsigned exe from a unkown source.
+So safer is to compile yourself, otherwise, just yolo :)
 ---
 
 ## Notes
